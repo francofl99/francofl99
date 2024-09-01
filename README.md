@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **https://dev.to/frandev**
 
-- ⚡ Fun fact [I apply tests in everything](I apply tests in everything)
+- ⚡ Fun fact I apply tests in everything
 
 - 👨‍💻 All of my projects are available at **https://github.com/francofl99**
 
