@@ -12,4 +12,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: "header, activity, community, repositories"
           config_timezone: America/Argentina/Buenos_Aires
-          output_action: none
+          output_action: commit
+          committer_branch: metrics
+          committer_message: "chore: update metrics"
+          filename: github-metrics.svg
