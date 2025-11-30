@@ -23,7 +23,7 @@ I care deeply about **clean code, architecture, developer experience, performanc
 - Lead migrations from legacy stacks (Vue 2 → Vue 3, monolithic → modular)  
 - Design AWS serverless backends (AppSync, Lambda, DynamoDB)  
 - Build CI/CD pipelines and automated workflows  
-- Integrate third-party services (WhatsApp API, HubSpot, Slack, Meta APIs, GraphQL)  
+- Integrate third-party services (WhatsApp API, Slack, Meta APIs, GraphQL)  
 - Provide consulting, audits and engineering guidance  
 - Apply TDD across backend & frontend
 
